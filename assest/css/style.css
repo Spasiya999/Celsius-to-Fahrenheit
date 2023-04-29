@@ -1,0 +1,27 @@
+.container{
+  margin: 10px;
+  border: 2px solid #5da1ee;
+  border-radius: 15px;
+}
+
+.data-div{
+  padding: 10px;
+}
+
+.data{
+  border: 2px solid #005fcc;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.btn{
+  border: 2px solid #005fcc;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+span{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
